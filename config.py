@@ -28,7 +28,7 @@ LOGGER_ID = int(getenv("LOGGER_ID", None))
 YTPROXY_URL = getenv("YTPROXY_URL", 'https://yt.okflix.top/api') ## E.G https://yt.okflix.top/api/jADTdg-o8i0 Returns 
 
 # Get this value from @FallenxBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 1356469075))
+OWNER_ID = int(getenv("OWNER_ID", 6391774843))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
